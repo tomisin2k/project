@@ -1,0 +1,45 @@
+body {
+  background: white;
+  padding: 100px;
+  color: purple;
+
+}
+
+.imageProfile {
+  border-radius: 50%;
+}
+
+.btnA {
+  width: 100%
+}
+
+.card {
+width: 100%;
+margin: auto;
+color: white;
+background-color: purple;
+}
+
+.card-bodyA {
+  padding: 18px;
+}
+
+.card-bodyC {
+  padding: 19px;
+}
+
+.row2 {
+  margin-top: 100px;
+}
+
+.colBtn {
+  margin-top: 10px;
+  margin-bottom: 10px;
+width: 400px;
+}
+
+@media (max-width: 900px) {
+  .colBtn {
+    width: 100%;
+  }
+}
